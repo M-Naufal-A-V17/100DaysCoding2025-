@@ -1,6 +1,6 @@
 public class Day97 {
     
-    // Method non-void dengan parameter
+   
     static int hitungLuasPersegi(int sisi) {
         int luas = sisi * sisi;
         return luas;
@@ -14,3 +14,4 @@ public class Day97 {
     
     }
 }
+
